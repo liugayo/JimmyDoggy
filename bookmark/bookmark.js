@@ -1,5 +1,5 @@
 javascript:
-var c = A2W(prompt("此處文字不用改，在下方彈出對話框中輸入繁体字"));
+var c = A2W(prompt("此處文字不用改，在下方彈出對話框中輸入繁体字就好"));
 function A2W(s)
 {
 	var r="";
